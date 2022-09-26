@@ -5,5 +5,7 @@ Project in Android Studio for a Splash Screen Demo
 
 
 
-https://user-images.githubusercontent.com/69662259/192167514-33f7c905-0da8-469b-a26d-4bd0a75e2bb7.mp4
+
+
+https://user-images.githubusercontent.com/69662259/192172666-2993c0f4-b17d-43c5-be16-965d78cd03ca.mp4
 
